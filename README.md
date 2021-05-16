@@ -7,4 +7,4 @@ But at first you should download Selenium Webdriver / Chromedriver, set it up an
 
 
 Contact:
-If there is a question or something else, fell free to contact me here or on [YouTube: WhATaPlaYer] / [Instagram: whataplayr]
+If there is a question or something else, fell free to contact me here or on [YouTube: WhATaPlaYer] / [Instagram: whataplayr] / [Twitter: @MC_BOCKIE]
